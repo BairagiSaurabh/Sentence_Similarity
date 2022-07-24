@@ -1,0 +1,5 @@
+https://www.sbert.net/
+
+https://github.com/UKPLab/sentence-transformers
+
+
